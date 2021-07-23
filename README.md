@@ -1,7 +1,7 @@
 Interval Conquest
 =======
 
-This repo gives code to arress numerically a probem with N players, that play in sequence, to each grab as much as they can from a common interval.
+This repo gives code to address numerically a probem with N players that play in sequence, to each grab as much as they can from a common interval.
 The problem is quite classical when there are three players, but I haven't found a lot of discussion of the gernal N>3 case.
 I have, however, found an analytical solution that seems to be confirmed numerically by my code.
 
